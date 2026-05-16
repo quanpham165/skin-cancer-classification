@@ -1,0 +1,26 @@
+# Dataset
+Dataset/
+datasets/
+data/
+
+# Model weights
+*.pt
+*.pth
+*.ckpt
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
+
+# Logs
+*.log
+
+# Temp
+temp/
+tmp/
