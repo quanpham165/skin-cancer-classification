@@ -1,0 +1,16 @@
+Best Epoch: 37
+                            precision    recall  f1-score   support
+
+         actinic keratosis       0.67      0.38      0.48        16
+      basal cell carcinoma       0.65      0.94      0.77        16
+            dermatofibroma       0.88      0.44      0.58        16
+                  melanoma       0.25      0.25      0.25        16
+                     nevus       0.48      0.88      0.62        16
+pigmented benign keratosis       0.55      0.69      0.61        16
+      seborrheic keratosis       1.00      0.33      0.50         3
+   squamous cell carcinoma       0.78      0.44      0.56        16
+           vascular lesion       1.00      1.00      1.00         3
+
+                  accuracy                           0.58       118
+                 macro avg       0.69      0.59      0.60       118
+              weighted avg       0.63      0.58      0.56       118
