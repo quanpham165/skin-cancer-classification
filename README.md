@@ -13,6 +13,7 @@ Các mô hình đã thử nghiệm:
 - VGG16
 - Swin Transformer Tiny
 - Swin Transformer Small
+- Swin Transformer Base
 - EfficientNetB0_CBAM_Vit
 - EfficientNetB0_CBAM_Swin-Small
 
